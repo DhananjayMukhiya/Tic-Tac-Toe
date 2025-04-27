@@ -26,7 +26,7 @@ Perfect for beginners to learn about DOM manipulation, game logic, and responsiv
 
 ## 🌐 Live Preview
 
-> 🚀 [Click here to view the live demo](https://dhananjaycoders-to-do-list-project.netlify.app/)
+> 🚀 [Click here to view the live demo](https://dhananjaycoders-tic-tac-toe.netlify.app/)
 
 ---
 
